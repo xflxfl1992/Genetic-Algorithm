@@ -1,8 +1,5 @@
 # Genetic Algorithm for Walking Simulation
 
-Online demo: https://rossning92.github.io/genetic-algorithm/
-![](images/demo.gif)
-
 ## Build the code
 
 > Make sure you have node 12+ installed: https://nodejs.org/en/download/
