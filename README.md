@@ -1,9 +1,12 @@
-# Genetic-Algorithm
-Simulation program of genetic-algorithm for basic courses of artificial intelligence.
+# Genetic Algorithm for Walking Simulation
 
-# Build the code
-Make sure you have node 12+ installed: https://nodejs.org/en/download/
+Online demo: https://rossning92.github.io/genetic-algorithm/
+![](images/demo.gif)
 
-Install all dependencies by npm i or yarn if you have yarn installed.
-Run demo locally: npm start
-Build the whole demo into /docs folder: npm run build
+## Build the code
+
+> Make sure you have node 12+ installed: https://nodejs.org/en/download/
+
+- Install all dependencies by `npm i` or `yarn` if you have yarn installed.
+- Run demo locally: `npm start`
+- Build the whole demo into `/docs` folder: `npm run build`
