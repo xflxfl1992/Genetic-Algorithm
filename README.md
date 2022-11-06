@@ -1,3 +1,4 @@
+# Thanks to Ross Ning's contributions. Codes are adapted from https://rossning92.github.io/genetic-algorithm.
 # Genetic Algorithm for Walking Simulation
 
 ## Build the code
